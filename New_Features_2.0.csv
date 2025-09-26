@@ -1,0 +1,85 @@
+Company,Green Keyword frequecy,Vague Keyword Ratio,Concrete Claim Ratio,overall_sentiment_score,external_sentiment_gap,Emission Sentiment ,Energy Sentiment,Waste Sentiment,Relative Focus Score,CATEGORY
+ABB India Ltd,33,0.001,0.183,0.932,0.194,-0.016,0.006,-0.005,29.11,Medium
+Adani Energy Solutions Ltd,36,0.001,0.38,0.861,0.195,-0.005,0.01,-0.002,30.27,Medium
+Adani Enterprises Ltd,40,0.002,0.137,0.963,0.052,0.002,0.022,-0.004,28.29,High
+Adani Green Energy Ltd,36,0.002,0.213,0.728,0.458,0.004,0.018,-0.002,29.86,Low
+Adani Ports and Special Economic Zone Ltd,36,0.002,0.058,0.707,0.496,-0.004,0.01,-0.009,29.2,Low
+Adani Power Ltd,31,0.002,0.056,0.965,0.055,-0.003,0.007,0.002,32.96,High
+Ambuja Cements Ltd,32,0.002,0.175,0.892,0.113,-0.004,0.024,-0.012,35.02,Medium
+Apollo Hospitals Enterprise Ltd,13,0.002,0,0.966,0.065,-0.022,0,-0.01,79.87,Medium
+Apollo Tyres ltd,21,0.009,0,0.87,0.388,-0.002,0.008,0.009,69.2,Low
+Ashoka Buildcon Ltd.,14,0.007,0,0.934,0,-0.013,0.006,-0.026,42,High
+Asian Paints Ltd,30,0.001,0.061,0.89,-0.147,-0.018,0.009,-0.008,30.98,Medium
+Avenue Supermarts Ltd,19,0.001,0,0.875,0.102,-0.039,0.002,-0.009,34.72,High
+Axis Bank Ltd,21,0.005,0.026,0.841,-0.032,0.002,0.013,0,40.07,Low
+Bajaj Auto Ltd,6,0.008,0.25,0.941,0.108,0.024,0.028,0,100,Low
+Bajaj Finserv Ltd,8,0.007,0,0.901,-0.009,0.015,0.01,-0.015,84.77,Medium
+Bajaj Holdings & Investment Ltd,6,0.01,0,0.905,0.078,-0.088,0.006,-0.043,89.27,Low
+Bajaj Housing Finance Ltd,9,0.013,0,0.881,0.154,0.04,0.018,0.009,99.83,Low
+Bank of Baroda,22,0.003,0.103,0.935,-0.04,-0.006,0.007,-0.011,36.5,Medium
+Bharat Electronics Ltd,28,0.007,1.095,0.927,-0.039,-0.018,0.013,-0.007,47.93,High
+Bharat Petroleum Corporation Ltd,35,0.002,0.211,0.757,0.292,0.004,0.027,-0.001,34.79,High
+Blue star Ltd,22,0.006,0,0.839,0.481,-0.022,0.016,-0.002,74.85,Medium
+CG Power and Industrial Solutions Ltd,8,0,0,0.923,0.007,0,0.003,-0.003,38.25,Medium
+Castrol india ltd,14,0.003,0.053,0.856,0.432,0,0.01,-0.026,93.6,Medium
+Coal India Ltd,25,0.002,0.222,0.921,-0.093,-0.004,0.023,-0.004,45.44,High
+DLF Ltd,30,0.002,0.079,0.767,0.462,0.002,0.013,-0.008,31.84,Low
+Dabur,33,0.002,0.077,0.902,0.199,0.01,0.013,-0.006,32.52,Medium
+Divi's Laboratories Ltd,26,0.002,0.111,0.978,0.039,0.001,0.006,-0.008,32.5,High
+Dr. Reddy's Laboratories Ltd,34,0.002,0.313,0.926,0.139,-0.01,0.013,-0.004,30.74,Medium
+Eicher Motors Ltd,21,0.003,0.024,0.942,0.115,-0.009,0.011,-0.005,33.68,Low
+Eternal Ltd,15,0.001,0,0.969,0.061,-0.014,0.006,-0.008,45.8,Low
+GAIL,17,0.003,0.077,0.89,0.265,0.001,0.018,-0.006,47.47,High
+Godrej Consumer Products Ltd,30,0.001,0.087,0.976,0.048,-0.009,0.009,-0.012,30.32,Medium
+Granules India Ltd.,28,0.001,0.123,0.883,0.238,-0.011,0.01,-0.013,31.8,High
+Grasim Industries Ltd,34,0.002,0.086,0.857,-0.079,-0.001,0.02,-0.004,32.97,High
+Gravita India Ltd.,23,0.005,0.105,0.941,0.087,0.006,0.018,0.012,39.05,High
+Gujarat State Fertilizers & Chemicals Ltd.,17,0.005,0.083,0.954,0.135,0.03,0.013,-0.031,47.96,High
+HCL Technologies Ltd,35,0.001,0.168,0.906,-0.014,0.005,0.012,0,39.06,Low
+HDFC Bank Ltd,26,0.002,0,0.893,-0.166,-0.03,0.014,-0.007,30.06,Medium
+HDFC Life Insurance Company Ltd,21,0.002,0.034,0.662,0.327,0.014,0.007,-0.016,32.28,Low
+Havells India Ltd,24,0.004,0.657,0.918,-0.032,-0.023,0.002,0.004,36.5,Low
+Hero MotoCorp Ltd,26,0.002,0.338,0.972,0.056,0.003,0.006,-0.005,35.21,Low
+Hindalco Industries Ltd,35,0.001,0.162,0.986,0.028,-0.01,0.007,0,28.97,High
+Hindustan Aeronautics Ltd,11,0.003,0.049,0.87,0.259,0,0.005,-0.014,55.02,High
+Hindustan Unilever Ltd,29,0.001,0.275,0.902,0.196,0.004,0.017,-0.012,27.1,Low
+Indian Oil Corporation Ltd,38,0.001,0.288,0.976,0.048,0.001,0.025,0,28.44,High
+Indian Railway Finance Corporation Ltd,7,0.004,0,0.95,0.097,-0.038,0,-0.024,60.75,Medium
+JSW Energy Ltd,31,0.001,0.427,0.891,0.219,0.001,0.033,-0.002,31.05,Medium
+JSW Steel Ltd,35,0.001,0.189,0.971,0.059,-0.003,0.014,-0.002,31.84,High
+Larsen & Toubro Ltd,36,0.002,0.08,0.863,0.274,-0.006,0.023,-0.001,34.05,High
+Life Insurance Corporation of India,6,0.008,0,0.986,0.04,0,0.006,-0.016,58.61,High
+Maruti Suzuki India Ltd,30,0.002,0.204,0.939,0.121,-0.024,0.012,-0.006,39.57,High
+NTPC Ltd,32,0.002,0.13,0.942,0.117,0.004,0.019,-0.005,32.43,High
+Oil & Natural Gas Corporation Ltd,20,0.006,0.231,0.945,0.11,0.012,0.012,0,65.63,High
+PTC India Ltd.,21,0.001,0,0.955,-0.024,0.008,0.014,-0.034,33.98,High
+Pidilite Industries Ltd,29,0.002,0.053,0.945,0.11,0.003,0.011,-0.004,38.12,High
+Power Grid Corporation of India Ltd,27,0.004,0.149,0.983,0.033,0.008,0.014,-0.005,36.45,Medium
+Privi Speciality Chemicals Ltd.,36,0.003,0.2,0.952,0.142,0.012,0.013,-0.009,42.39,High
+REC Ltd,14,0.003,0,0.93,0.14,0.008,0.016,-0.009,36.74,Low
+Rashtriya Chemicals & Fertilizers Ltd.,16,0.004,0.167,0.955,0.133,-0.003,0.013,-0.024,96.04,High
+RattanIndia Enterprises Ltd.,2,0.012,0,0.951,0.11,-0.118,0,-0.036,73.97,High
+RattanIndia Power Ltd.,14,0.003,0.286,0.957,0.127,0.019,0.015,-0.018,64.51,High
+Reliance Industries Ltd,26,0.003,0.188,0.875,0.058,-0.021,0.009,-0.007,39.54,High
+Reliance Infrastructure Ltd.,17,0.003,0.08,0.955,0.132,0.008,0.013,0.005,34.47,High
+Reliance Power Ltd.,25,0.004,0.062,0.967,0.095,-0.012,0.018,-0.018,40.05,High
+SJVN Ltd.,20,0.003,0.208,0.946,0.16,0.019,0.024,-0.006,86.13,High
+Sharda Cropchem Ltd.,14,0.005,0,0.988,0.036,0.012,0.011,-0.008,100,High
+Shree Cement Ltd,7,0.009,0,0.939,0.071,,-0.018,-0.008,61.54,Medium
+Sun Pharmaceutical Industries Ltd,33,0.002,0.128,0.784,0.352,-0.008,0.012,-0.01,35.62,Medium
+TVS Motor Company Ltd,0,0.002,0,0.925,0.072,0,0,0,49.71,Low
+Tata Consultancy Services Ltd,25,0.002,0.212,0.918,0.082,-0.016,0.014,-0.006,34.6,Low
+Tata Motors Ltd,33,0.001,0.06,0.944,0.11,-0.002,0.008,-0.001,36.94,Medium
+Tata Power Co. Ltd,36,0.001,0.384,0.953,0.089,-0.003,0.023,-0.004,58.16,High
+Tata Steel Ltd,23,0.004,0.122,0.936,0.124,-0.026,0.014,-0.005,58.71,High
+Tech Mahindra Ltd,23,0.003,0.333,0.963,0.06,0.007,0.012,-0.02,22.07,Low
+Titan Company Ltd,0,0,0,0,0,0,0,0,38.03,Medium
+Torrent Pharmaceuticals Ltd,28,0.002,0.104,0.902,0.195,0.002,0.008,-0.01,34.24,High
+Torrent Power Ltd.,30,0.002,0.068,0.928,0.214,0.012,0.027,-0.006,35.59,Low
+Trent Ltd,23,0.001,0.02,0.925,0.143,0.008,0.012,-0.009,22.07,Low
+UltraTech Cement Ltd,30,0.002,0.132,0.976,0.045,-0.01,0.013,-0.004,33.62,Medium
+United Spirits Ltd,23,0.003,0.118,0.924,0.151,-0.01,0.005,-0.003,46.18,Medium
+Varun Beverages Ltd,29,0.001,0.291,0.865,0.267,-0.007,0.011,-0.002,27.85,Medium
+Vedanta Ltd,33,0.002,0.495,0.774,0.45,-0.004,0.009,-0.003,34.75,High
+Wipro Ltd,24,0.002,0.237,0.938,0.121,-0.021,0.004,-0.004,39.53,Low
+Zydus Lifesciences Ltd,24,0.003,0.226,0.741,0.517,0.002,0.013,-0.018,32.97,Medium
